@@ -63,8 +63,8 @@ function Oppertunity() {
             </div>
             <div className='container' style={{backgroundColor:"blue", maxWidth:"1440px",height:"200px"}}>
                     <div className='row'>
-                        <div className='col-12 d-flex align-item-center justify-content-between mx-auto' style={{padding: "50px 160px 51px 160px"}}>
-                            <div style={{width:'255px', height:"99px",marginRight:"32.5px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
+                        <div className='container d-flex align-item-center justify-content-between mx-auto' style={{padding: "50px 0 51px 0"}}>
+                            <div style={{width:'255px', height:"99px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
                                 <div style={{marginRight:"14.01px"}}><img src={students}/></div>
                                 <div>
                                     <div style={{marginBottom:"5.22px"}}><img src={tenplus}/></div>
@@ -72,7 +72,7 @@ function Oppertunity() {
                                 </div>
                             </div>
 
-                            <div style={{width:'255px', height:"99px",marginRight:"32.5px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
+                            <div style={{width:'255px', height:"99px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
                                 <div style={{marginRight:"14.01px"}}><img src={companies}/></div>
                                 <div>
                                     <div style={{marginBottom:"5.22px"}}><img src={hundplus}/></div>
@@ -80,7 +80,7 @@ function Oppertunity() {
                                 </div>
                             </div>
                           
-                            <div style={{width:'255px', height:"99px",marginRight:"32.5px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
+                            <div style={{width:'255px', height:"99px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
                                 <div style={{marginRight:"14.01px"}}><img src={activestudents}/></div>
                                 <div>
                                     <div style={{marginBottom:"5.22px"}}><img src={twohund}/></div>
@@ -88,7 +88,7 @@ function Oppertunity() {
                                 </div>
                             </div>
                           
-                            <div style={{width:'255px', height:"99px",marginRight:"32.5px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
+                            <div style={{width:'255px', height:"99px",padding:"21.41px 39.78px 27.77px 24.49px",borderRadius:"10px"}} className='border d-flex bg-white'>
                                 <div style={{marginRight:"14.01px"}}><img src={openingeveryday}/></div>
                                 <div>
                                     <div style={{marginBottom:"5.22px"}}><img src={tenplus}/></div>
