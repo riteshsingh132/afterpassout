@@ -17,6 +17,7 @@ import opening from "../../src/images/opening.png"
 import openingeveryday from "../../src/images/openingeveryday.png"
 import view from "../../src/images/view.png"
 
+
 function Oppertunity() {
     return (
 
