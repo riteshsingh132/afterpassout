@@ -22,10 +22,10 @@ function Oppertunity() {
     return (
 
         <>
-            <div className='container oppertunitywrapper' style={{ maxWidth: "1440px," }}>
+            <div className=' oppertunitywrapper border' style={{ maxWidth: "1440px," }}>
                 <div className=' container mx-auto ' style={{padding:"36.3px 0 0 0"}}>
                     <div className='row justify-content-center mx-auto'>
-                        <div className='col-12 mx-auto text-align-center'>
+                        <div className='container mx-auto text-align-center'>
                             <div className='row' style={{ textAlign: "center" }} >
                                 <div className='mx-auto'>
                                     <div >
